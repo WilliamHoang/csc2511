@@ -2,5 +2,5 @@
 NLP Course Project
 
 ### Collaborators
- - SooA Lim
- - William Hoang
+ - SooA Lim: sooa.lim@gmail.com
+ - William Hoang 
